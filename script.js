@@ -1,7 +1,7 @@
 // JS para operações CRUD com Fetch API
 
-const API_URL = 'https://backend-3gjv.onrender.com/alunos';
-const CURSOS_API_URL = 'https://backend-3gjv.onrender.com/cursos';
+const API_URL = 'https://twt1-backend.onrender.com//alunos';
+const CURSOS_API_URL = 'https://twt1-backend.onrender.com//cursos';
 
 const form = document.getElementById('aluno-form');
 const idInput = document.getElementById('aluno-id');
